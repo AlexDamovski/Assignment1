@@ -14,7 +14,7 @@ body {
 
 table,
 td {
-    border: 2px solid olive;
+
     border-collapse: separate;
     border-collapse: collapse;
     margin-right: auto;
@@ -23,4 +23,27 @@ td {
     margin-right: auto;
     margin-left: auto;
     vertical-align: top;
+}
+
+a:hover {
+    text-decoration: underline overline;
+    background-color: lavender;
+}
+
+.SectionTitle{
+
+    background-color: #d0d4cd;
+}
+#allPage {
+    width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #666666;
+    padding: 6px;
+    background-color: gainsboro ;
+}
+.fieldLabel{
+    text-align: left;
+    border-bottom: 2px solid #6b6b00;
 }
