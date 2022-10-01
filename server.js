@@ -1,3 +1,9 @@
+/*
+File name: app.css
+Student Name: Alexander Damovski
+Student ID: 301192233
+Date: October 1, 2022 
+*/
 import debug from 'debug';
 debug('comp-229');
 import http from 'http';

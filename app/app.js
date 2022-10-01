@@ -1,3 +1,10 @@
+/*
+File name: app.css
+Student Name: Alexander Damovski
+Student ID: 301192233
+Date: October 1, 2022 
+*/
+
 // Third-Party Modules
 import express from 'express';
 import cookieParser from 'cookie-parser';
