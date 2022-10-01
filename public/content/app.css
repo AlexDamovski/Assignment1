@@ -25,23 +25,25 @@ td {
     vertical-align: top;
 }
 
+
+
 .SectionTitle {
     background-color: #d0d4cd;
 }
 
+/* used for Contact page for layout */
 #allPage {
     width: 900px;
     margin-right: auto;
     margin-left: auto;
     border-radius: 20px;
-    box-shadow: 5px 5px 5px #666666;
     padding: 6px;
-    background-color: gainsboro;
+    
 }
 
 .fieldLabel {
     text-align: left;
-    border-bottom: 2px solid #6b6b00;
+    border-bottom: 2px solid black
 }
 
 .firstTable {
