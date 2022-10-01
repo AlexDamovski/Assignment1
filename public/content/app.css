@@ -46,3 +46,7 @@ hr {
     border-color: black;
     border-width: 2px;
 }
+
+#openTitle{
+    text-align: center;
+}
